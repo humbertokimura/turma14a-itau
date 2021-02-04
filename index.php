@@ -1,5 +1,5 @@
 <div style="display:flex">
-  <div style="width:200px;height:250px;background:yellow;padding:50px; margin:10px">
+  <div style="width:200px;height:400px;background:yellow;padding:50px; margin:10px">
   Um teste em um quadrado
   <br>
   <img src="Salvia.jpg" style="width: 100px">
@@ -13,7 +13,7 @@
   </div>
 
  
-  <div style="width:200px;height:250px;background:blue;color:white;padding:50px; margin:10px">
+  <div style="width:200px;height:400px;background:blue;color:white;padding:50px; margin:10px">
   Um teste em um quadrado
   <br>
   <img src="Boldo.jpg" style="width: 100px">
