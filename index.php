@@ -10,13 +10,16 @@
 <div style="display:flex">
   <div style="width:200px;height:200px;background:yellow;padding:50px; margin:10px">
   Um teste em um quadrado
+  <br>
+  <img src="Salvia.jpg" style="width: 200px">
+
   </div>
 
-
-
-  
+ 
   <div style="width:200px;height:200px;background:blue;color:white;padding:50px; margin:10px">
   Um teste em um quadrado
+  <br>
+  <img src="Boldo.jpg" style="width: 200px">
   </div>
 
 
